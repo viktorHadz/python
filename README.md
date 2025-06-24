@@ -42,11 +42,11 @@ Here's what you get:
 Enhanced_Survey_Report.docx
 ├── Executive Summary (response counts, key highlights)
 Categorisation
-  ├── Course & Academic Background (6 questions analyzed)
-  ├── Learning & Assessment Preferences (7 questions analyzed)  
-  ├── Transition Concerns (7 questions analyzed)
-  ├── Demographics (6 questions analyzed)
-  └── Support & Services (2 questions analyzed)
+  ├── Course & Academic Background
+  ├── Learning & Assessment Preferences 
+  ├── Transition Concerns
+  ├── Demographics
+  └── Support & Services
 ```
 
 Each section includes data tables, professional charts, and key insights automatically generated.
