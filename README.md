@@ -11,13 +11,13 @@ Takes a CSV file of student survey responses and automatically generates:
 - Smart Visual charts (bar/horizontal based on response length)
 - Executive summary and insights
 
-Perfect for academic institutions analyzing student feedback, transitions, or satisfaction surveys.
+Perfect for analyzing student feedback, or satisfaction surveys. Tailor to your specific needs by tinkering with the config. 
 
 ## Quick Start
 
 ```bash
 # Clone and setup
-git clone https://github.com/viktorHadz/python.git
+git clone https://github.com/viktorHadz/pythonSurveyGenerator.git
 cd python
 pip install pandas matplotlib python-docx
 
