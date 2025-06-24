@@ -18,7 +18,7 @@ Perfect for analyzing student feedback, or satisfaction surveys. Tailor to your 
 ```bash
 # Clone and setup
 git clone https://github.com/viktorHadz/pythonSurveyGenerator.git
-cd python
+cd pythonSurveyGenerator
 pip install pandas matplotlib python-docx
 
 # Run with your survey data
